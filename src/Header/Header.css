@@ -12,9 +12,18 @@
     text-decoration: none;
     color: white;
     font-size: 25px;
-    margin-top: -25px;
+    margin-top: -25px ;
+    margin-left: 10px;
+    background-color: #a21e5afc;
+    padding: 4px;
+    border-radius: 5px;
 }
 
 .Navigation .NavLink:hover {
+    color: wheat;
+}
+
+.active{
+    text-shadow: 1px 1px gray;
     color: wheat;
 }
